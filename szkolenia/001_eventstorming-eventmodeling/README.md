@@ -148,7 +148,7 @@ Deweloperzy i tak zaczynają od bazy danych, a projekty kończą jak rozproszony
 Dlatego proponuję Ci właśnie EventStorming w połączeniu z Event Modelingiem, gdzie zaadresujemy te problemy i inne, które wymieniłem na samej górze tego dokumentu.
 
 Tę metodę wykorzystałem z powodzeniem w wielu projektach komercyjnych,
-co przełożyło się na bardziej przemyślany projekt i sprawniejsze dowożenie funkcjonalności.
+co przełożyło się na rozwiązywanie realnych problemów biznesowych, bardziej przemyślaną architekturę i sprawniejsze dowożenie funkcjonalności.
 Szkolenie jest mixem moich własnych doświadczeń i wiedzy, którą zbudowałem na bardzo solidnych fundamentach, czerpiąc od najlepszych w tej dziedzinie.
 
 Event Modeling zgłębiałem od samego autora metody Adam Dymitruka.
