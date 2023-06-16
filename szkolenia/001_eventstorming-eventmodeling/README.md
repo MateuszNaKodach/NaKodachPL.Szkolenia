@@ -7,7 +7,7 @@ Ile razy słyszałeś(-aś) takie, czy inne zdanie:
 - Ten projekt trzeba cały przepisać, bo to już legacy — po miesiącu od startu.
 - Event Sourcing? Przecież to bardzo trudne, lepiej zacznę od rozrysowania sobie modelu bazy danych.
 - Jak to chciałbyś wiedzieć, jak często ludzie rezygnują z zakupionego pakietu? Nie zapisywaliśmy tego w bazie danych...
-- Ty mówisz na niego „Candidate", ale w kodzie mamy napisane „User".
+- Ty mówisz na niego „Candidate”, ale w kodzie mamy napisane „User”.
 - Rzeczywiście, może się to przyda, ale przecież zasada YAGNI. Usuńmy to.
 - Tej klasy nie da się już podzielić. Przecież „Produkt” ma relacje do wszystkiego w naszym systemie.
 - Gdybyśmy robili projekt przed implementacją, to nie jesteśmy zwinni.
